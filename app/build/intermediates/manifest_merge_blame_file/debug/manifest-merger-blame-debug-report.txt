@@ -46,44 +46,43 @@
 35-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:29:9-54
 36        android:supportsRtl="true"
 36-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:30:9-35
-37        android:testOnly="true"
-38        android:theme="@style/AppTheme" >
-38-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:31:9-40
-39        <activity
-39-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:33:9-40:20
-40            android:name="com.example.android.devbyteviewer.ui.DevByteActivity"
-40-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:33:19-53
-41            android:exported="true" >
-41-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:34:13-36
-42            <intent-filter>
-42-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:35:13-39:29
-43                <action android:name="android.intent.action.MAIN" />
-43-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:36:17-69
-43-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:36:25-66
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:38:17-77
-45-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:38:27-74
-46            </intent-filter>
-47        </activity>
-48
-49        <service
-49-->[androidx.room:room-runtime:2.1.0-alpha06] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:23:9-25:40
-50            android:name="androidx.room.MultiInstanceInvalidationService"
-50-->[androidx.room:room-runtime:2.1.0-alpha06] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:24:13-74
-51            android:exported="false" />
-51-->[androidx.room:room-runtime:2.1.0-alpha06] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:25:13-37
-52
-53        <provider
-53-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-54            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-54-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-55            android:authorities="com.example.android.devbyteviewer.lifecycle-process"
-55-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-56            android:exported="false"
-56-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-57            android:multiprocess="true" />
-57-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-58    </application>
-59
-60</manifest>
+37        android:theme="@style/AppTheme" >
+37-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:31:9-40
+38        <activity
+38-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:33:9-40:20
+39            android:name="com.example.android.devbyteviewer.ui.DevByteActivity"
+39-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:33:19-53
+40            android:exported="true" >
+40-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:34:13-36
+41            <intent-filter>
+41-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:35:13-39:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:36:17-69
+42-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:36:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:38:17-77
+44-->D:\android-kotlin-fundamentals-starter-apps-master\DevBytes-starter\app\src\main\AndroidManifest.xml:38:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <service
+48-->[androidx.room:room-runtime:2.1.0-alpha06] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:23:9-25:40
+49            android:name="androidx.room.MultiInstanceInvalidationService"
+49-->[androidx.room:room-runtime:2.1.0-alpha06] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:24:13-74
+50            android:exported="false" />
+50-->[androidx.room:room-runtime:2.1.0-alpha06] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:25:13-37
+51
+52        <provider
+52-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+53            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+54            android:authorities="com.example.android.devbyteviewer.lifecycle-process"
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+55            android:exported="false"
+55-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+56            android:multiprocess="true" />
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dakym\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+57    </application>
+58
+59</manifest>
